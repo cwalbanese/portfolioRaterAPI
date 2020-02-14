@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Chris Albanese",
+    "title": "Software Engineer",
+    "userId": "94949868604736600311",
+    "description": "Full stack web developer. Just certified by General Assembly at a 3 month bootcamp. Ready to jump into the tech industry.",
+    "link": "https://cwalbanese.github.io/",
+    "imageUrl": "https://i.imgur.com/amoCcTK.png",
+    "posts": [
+      "Nice looking portfolio, really cool design!",
+      "Strong presentation, love the CSS.",
+      "Looking good!"
+    ]
+  },
+  {
+    "name": "Jarod McGill",
+    "title": "Software Engineer",
+    "userId": "94949868604736600312",
+    "description": "Full stack web developer. The best of the best.",
+    "link": "https://jaymak1981.github.io/Jarod.github.io/",
+    "imageUrl": "https://i.imgur.com/BpwK6pW.png",
+    "posts": ["Very official, I dig it.", "Wow, I'm impressed!", "Awesome!!!"]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "portfolioRaterAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paradox1111/portfolioRaterAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paradox1111/portfolioRaterAPI/issues"
+  },
+  "homepage": "https://github.com/Paradox1111/portfolioRaterAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.0",
+    "nodemon": "^2.0.2"
+  }
+}
