@@ -3,8 +3,8 @@ const logger = require('morgan');
 const bodyParser = require('body-parser');
 const app = express();
 const cors = require('cors');
-const portfoliosController = require('./controllers/portfolios');
-const usersController = require('./controllers/users');
+const portfoliosController = require('../controllers/portfolios');
+const usersController = require('../controllers/users');
 
 app.use(cors());
 app.use(logger('dev'));
