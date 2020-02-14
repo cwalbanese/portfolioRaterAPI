@@ -2,7 +2,7 @@
   "name": "portfolioRaterAPI",
   "version": "1.0.0",
   "description": "",
-  "main": "App.js",
+  "main": "app.js",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/Paradox1111/portfolioRaterAPI#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.9.0",
+    "morgan": "^1.9.1",
     "nodemon": "^2.0.2"
   }
 }

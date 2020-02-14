@@ -20,5 +20,23 @@
     "link": "https://jaymak1981.github.io/Jarod.github.io/",
     "imageUrl": "https://i.imgur.com/BpwK6pW.png",
     "posts": ["Very official, I dig it.", "Wow, I'm impressed!", "Awesome!!!"]
+  },
+  {
+    "name": "Esin Saribudak",
+    "title": "Software Engineer",
+    "userId": "94949868604736600313",
+    "description": "Full stack web developer.",
+    "link": "https://esinsaribudak.com/",
+    "imageUrl": "https://i.imgur.com/IjqMlB4.png",
+    "posts": []
+  },
+  {
+    "name": "Rixio Barrios",
+    "title": "Software Engineer",
+    "userId": "94949868604736600314",
+    "description": "Full stack web developer.",
+    "link": "https://rixiobarrios.github.io/",
+    "imageUrl": "https://i.imgur.com/hma2aS1.png",
+    "posts": []
   }
 ]
