@@ -3,17 +3,17 @@ const User = require('../models/user');
 const seedData = require('./seeds.json');
 const userData = require('./users.json');
 
-Portfolio.remove({})
+Portfolio.deleteMany({})
 
-  .then(() => Portfolio.collection.insert(seedData))
+  .then(() => Portfolio.collection.insertMany(seedData))
 
   .then(() => {
     process.exit();
   });
 
-User.remove({})
+User.deleteMany({})
 
-  .then(() => User.collection.insert(userData))
+  .then(() => User.collection.insertMany(userData))
 
   .then(() => {
     process.exit();
