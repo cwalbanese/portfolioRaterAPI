@@ -30,7 +30,11 @@
     "description": "Full stack web developer.",
     "link": "https://esinsaribudak.com/",
     "imageUrl": "https://i.imgur.com/IjqMlB4.png",
-    "posts": [],
+    "posts": [
+      "Beautiful color scheme!",
+      "So professional.",
+      "Best portfolio I've seen in a long time."
+    ],
     "rating": 0
   },
   {
@@ -40,7 +44,7 @@
     "description": "Full stack web developer.",
     "link": "https://rixiobarrios.github.io/",
     "imageUrl": "https://i.imgur.com/hma2aS1.png",
-    "posts": [],
+    "posts": ["Clean design.", "Loving the white space.", "Very cool!"],
     "rating": 0
   }
 ]
