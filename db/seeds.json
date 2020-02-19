@@ -1,46 +1,46 @@
 [
-	{
-		"name": "Chris Albanese",
-		"title": "Software Engineer",
-		"userId": "94949868604736600311",
-		"description": "Full stack web developer. Just certified by General Assembly at a 3 month bootcamp. Ready to jump into the tech industry.",
-		"link": "https://cwalbanese.github.io/",
-		"imageUrl": "https://i.imgur.com/amoCcTK.png",
-		"posts": [
-			"Nice looking portfolio, really cool design!",
-			"Strong presentation, love the CSS.",
-			"Looking good!"
-		],
-		"rating": 0
-	},
-	{
-		"name": "Jarod McGill",
-		"title": "Software Engineer",
-		"userId": "94949868604736600312",
-		"description": "Full stack web developer. The best of the best.",
-		"link": "https://jaymak1981.github.io/Jarod.github.io/",
-		"imageUrl": "https://i.imgur.com/BpwK6pW.png",
-		"posts": ["Very official, I dig it.", "Wow, I'm impressed!", "Awesome!!!"],
-		"rating": 0
-	},
-	{
-		"name": "Esin Saribudak",
-		"title": "Software Engineer",
-		"userId": "94949868604736600313",
-		"description": "Full stack web developer.",
-		"link": "https://esinsaribudak.com/",
-		"imageUrl": "https://i.imgur.com/IjqMlB4.png",
-		"posts": [],
-		"rating": 0
-	},
-	{
-		"name": "Rixio Barrios",
-		"title": "Software Engineer",
-		"userId": "94949868604736600314",
-		"description": "Full stack web developer.",
-		"link": "https://rixiobarrios.github.io/",
-		"imageUrl": "https://i.imgur.com/hma2aS1.png",
-		"posts": [],
-		"rating": 0
-	}
+  {
+    "name": "Chris Albanese",
+    "title": "Software Engineer",
+    "userId": "94949868604736600311",
+    "description": "Full stack web developer. Just certified by General Assembly at a 3 month bootcamp. Ready to jump into the tech industry.",
+    "link": "https://cwalbanese.github.io/",
+    "imageUrl": "https://i.imgur.com/gbGCYDA.png",
+    "posts": [
+      "Nice looking portfolio, really cool design!",
+      "Strong presentation, love the CSS.",
+      "Looking good!"
+    ],
+    "rating": 0
+  },
+  {
+    "name": "Jarod McGill",
+    "title": "Software Engineer",
+    "userId": "94949868604736600312",
+    "description": "Full stack web developer. The best of the best.",
+    "link": "https://jaymak1981.github.io/Jarod.github.io/",
+    "imageUrl": "https://i.imgur.com/YSGBEKk.png",
+    "posts": ["Very official, I dig it.", "Wow, I'm impressed!", "Awesome!!!"],
+    "rating": 0
+  },
+  {
+    "name": "Esin Saribudak",
+    "title": "Software Engineer",
+    "userId": "94949868604736600313",
+    "description": "Full stack web developer.",
+    "link": "https://esinsaribudak.com/",
+    "imageUrl": "https://i.imgur.com/IjqMlB4.png",
+    "posts": [],
+    "rating": 0
+  },
+  {
+    "name": "Rixio Barrios",
+    "title": "Software Engineer",
+    "userId": "94949868604736600314",
+    "description": "Full stack web developer.",
+    "link": "https://rixiobarrios.github.io/",
+    "imageUrl": "https://i.imgur.com/hma2aS1.png",
+    "posts": [],
+    "rating": 0
+  }
 ]
