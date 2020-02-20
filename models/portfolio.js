@@ -7,7 +7,12 @@ const PortfolioSchema = new mongoose.Schema({
 	description: { type: String, required: true },
 	link: { type: String, required: true },
 	imageUrl: { type: String, required: true },
-	posts: [String, String, String],
+	posts: [
+		{
+			text: String,
+			userId: String
+		}
+	],
 	rating: { type: Number, default: 0 }
 });
 
