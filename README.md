@@ -14,7 +14,6 @@
 * Express
 * MongoDB
 * Mongoose
-* Handlebars
 
 #### Schema
 
