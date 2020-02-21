@@ -14,8 +14,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use('/api/portfolios', portfoliosController);
 app.use('/api/users', usersController);
 
-app.set('port', process.env.PORT || 8080);
+app.set('port', process.env.PORT || 8082);
 
 app.listen(app.get('port'), () => {
-  console.log(`✅ PORT: ${app.get('port')} 🌟`);
+	console.log(`✅ PORT: ${app.get('port')} 🌟`);
 });
