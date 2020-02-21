@@ -71,6 +71,8 @@ Delete User:
 
 ![PortfolioRater Schema](https://user-images.githubusercontent.com/58185036/74962767-ca8f2000-53cd-11ea-997e-8a9ad4fb0a4b.png)
 
+![User Schema](https://imgur.com/a/6tFvxdT)
+
 #### Contributing
 
 1. Fork the Project
