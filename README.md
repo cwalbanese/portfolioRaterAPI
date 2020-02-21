@@ -25,15 +25,15 @@ All portfolios:
 
 - /api/portfolios
 
-  One portfolio by DB ID:
+One portfolio by DB ID:
 
 - /api/portfolios/:id
 
-  All Users:
+All Users:
 
 - /api/users
 
-  One user by DB ID:
+One user by DB ID:
 
 - /api/users/:id
 
@@ -43,7 +43,7 @@ Create portfolio:
 
 - /api/portfolios
 
-  Create User:
+Create User:
 
 - /api/users
 
@@ -53,7 +53,7 @@ Update portfolio:
 
 - /api/portfolios/:id
 
-  Update User:
+Update User:
 
 - /api/users/:id
 
