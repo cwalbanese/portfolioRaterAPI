@@ -57,6 +57,16 @@ Update User:
 
 - /api/users/:id
 
+##### DELETE
+
+Delete portfolio:
+
+- /api/portfolios/:id
+
+Delete User:
+
+- /api/users/:id
+
 #### Schema
 
 ![PortfolioRater Schema](https://user-images.githubusercontent.com/58185036/74962767-ca8f2000-53cd-11ea-997e-8a9ad4fb0a4b.png)
