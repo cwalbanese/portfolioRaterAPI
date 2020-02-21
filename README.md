@@ -8,7 +8,7 @@
 
 ![PortfolioRater Create](https://user-images.githubusercontent.com/58185036/74962418-1d1c0c80-53cd-11ea-8c07-d77e13b991e1.png)
 
-#### Technologies Used
+### Technologies Used
 
 - HTML & CSS
 - JavaScript
@@ -19,7 +19,7 @@
 
 #### Endpoints
 
-## GET
+##### GET
 
 All portfolios:
 
@@ -37,7 +37,7 @@ One user by DB ID:
 
 - /api/users/:id
 
-## POST
+##### POST
 
 Create portfolio:
 
@@ -47,7 +47,7 @@ Create User:
 
 - /api/users
 
-## PUT
+##### PUT
 
 Update portfolio:
 
