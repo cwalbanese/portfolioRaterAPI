@@ -6,7 +6,7 @@
 - Users can comment and/or vote on others Portfolios.
 - Users can Create, Edit or Delete their Portfolio.
 
-![PortfolioRater Create](https://user-images.githubusercontent.com/58185036/74962418-1d1c0c80-53cd-11ea-8c07-d77e13b991e1.png)
+![PortfolioRater Create](https://i.imgur.com/FJ2VA2o.png)
 
 ### Technologies Used
 
